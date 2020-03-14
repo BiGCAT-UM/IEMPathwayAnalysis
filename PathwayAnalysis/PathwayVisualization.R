@@ -5,7 +5,7 @@
 ## Purpose of script: Visualize transcriptomics data on WikiPathways pathway
 ## Dataset: GSE24345 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE24345)
 ## Disease: Lesch Nyhan Disease
-## Pathway: Purine metabolism pathway (https://www.wikipathways.org/index.php/Pathway:WP4792)
+## Pathway: Purine metabolism pathway (https://www.wikipathways.org/instance/WP4792)
 ##
 ## Author: Martina Kutmon
 ##
