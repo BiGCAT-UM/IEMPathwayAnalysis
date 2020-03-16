@@ -14,12 +14,16 @@
 ## Copyright (c) Martina Kutmon, 2020
 ##
 ## Session info:
-## R version 3.6.2 (2019-12-12)
+## R version 3.6.3 (2020-02-29)
 ## Platform: x86_64-w64-mingw32/x64 (64-bit)
 ## Running under: Windows 10 x64 (build 17763)
-## Packages: readxl_1.3.1, rstudioapi_0.10, RColorBrewer_1.1-2, RCy3_2.4.1
+## Packages: readxl_1.3.1, rstudioapi_0.11, RColorBrewer_1.1-2, RCy3_2.6.3
+##
+## Cytoscape version 3.7.2, WikiPathways app version 3.3.7
 ##
 ## ---------------------------
+# install.packages("BiocManager")
+# BiocManager::install(c("rstudioapi","RCy3","readxl","RColorBrewer"))
 
 # required R packages
 library(rstudioapi)

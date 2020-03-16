@@ -15,13 +15,15 @@
 ## Copyright (c) Martina Kutmon, 2020
 ##
 ## Session info:
-## R version 3.6.2 (2019-12-12)
+## R version 3.6.3 (2020-02-29)
 ## Platform: x86_64-w64-mingw32/x64 (64-bit)
 ## Running under: Windows 10 x64 (build 17763)
-## Packages: rWikiPathways_1.4.1, clusterProfiler_3.12.0, dplyr_0.8.3, tidyr_1.0.2
-## rstudioapi_0.10, readxl_1.3.1, DOSE_3.10.2, org.Hs.eg.db_3.8.2
+## Packages: rWikiPathways_1.6.1, clusterProfiler_3.14.3, dplyr_0.8.4, tidyr_1.0.2
+## rstudioapi_0.11, readxl_1.3.1, DOSE_3.12.0, org.Hs.eg.db_3.10.0
 ##
 ## ---------------------------
+# install.packages("BiocManager")
+# BiocManager::install(c("rWikiPathways","clusterProfiler","tidyr","dplyr","DOSE","org.Hs.eg.db"))
 
 # required R packages
 library(rWikiPathways)
