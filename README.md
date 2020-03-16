@@ -18,6 +18,6 @@
 
 **Example A: Network Extension**
 * Extends the Purine metabolism pathway from WikiPathways with known drug-target interactions from DrugBank
-* Pathway: https://www.wikipathways.org/index.php/Pathway:WP4792
+* Pathway: https://www.wikipathways.org/instance/WP4792
 * Drug-target database: DrugBank (https://www.drugbank.ca/)
 * [R script](https://github.com/BiGCAT-UM/PathwayAnalysisBlauBook/blob/master/NetworkAnalysis/NetworkExtension.R)
