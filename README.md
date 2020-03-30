@@ -27,6 +27,8 @@
 ## 3. Linking chemical (biomarker) data with RDF
 
 **Prerequisits: Beginners tutorial on SPARQL**
+* Provides basic explanation on RDF, SPARQL and building queries.
+* Follow the tutorial [here](https://github.com/BiGCAT-UM/PathwayAnalysisBlauBook/blob/master/SPARQL/Tutorial.md).
 
 **Example A: Mapping chemical IDs with BridgeDb**
 
