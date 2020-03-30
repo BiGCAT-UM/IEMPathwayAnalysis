@@ -1,5 +1,7 @@
 # PathwayAnalysisBlauBook
 
+[HOME](https://bigcat-um.github.io/PathwayAnalysisBlauBook/)
+
 ## 1. Pathway analysis
 
 **Example A: Pathway visualization**
