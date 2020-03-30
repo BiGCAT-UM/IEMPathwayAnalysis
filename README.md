@@ -25,7 +25,11 @@
 ## 3. Linking chemical (biomarker) data with RDF
 
 **Prerequisits: Beginners tutorial on SPARQL**
+
 **Example A: Mapping chemical IDs with BridgeDb**
+
 **Example B: Performing SPARQL query with InChIKey**
+
 **Example C: Performing SPARQL query with neutralised InChIKey**
+
 **Example D: Additiona; SPARQL queries for chemical compounds**
