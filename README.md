@@ -28,7 +28,7 @@
 
 **Prerequisits: Beginners tutorial on SPARQL**
 * Provides basic explanation on RDF, SPARQL and building queries.
-* Follow the tutorial [here](https://github.com/BiGCAT-UM/PathwayAnalysisBlauBook/blob/master/SPARQL/Tutorial.md).
+* Follow the tutorial [here](https://bigcat-um.github.io/SPARQLTutorialBioSB2019/).
 
 **Example A: Mapping chemical IDs with BridgeDb**
 
