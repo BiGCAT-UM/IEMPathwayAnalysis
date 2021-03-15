@@ -22,7 +22,7 @@
 * Extends the Purine metabolism pathway from WikiPathways with known drug-target interactions from DrugBank
 * Pathway: https://www.wikipathways.org/instance/WP4792
 * Drug-target database: DrugBank (https://www.drugbank.ca/)
-* [R script](https://github.com/BiGCAT-UM/PathwayAnalysisBlauBook/blob/master/NetworkAnalysis/NetworkExtension.R)
+* [R script](https://github.com/BiGCAT-UM/PathwayAnalysisBlauBook/blob/master/NetworkAnalysis/PathwayExtension.R)
 
 ## 3. Linking chemical (biomarker) data with RDF
 
