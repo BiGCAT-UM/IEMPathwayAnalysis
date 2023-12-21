@@ -13,7 +13,7 @@
 **Example B: Pathway enrichment analysis**
 * Identifies affected pathways in dataset
 * Dataset: [GSE24345](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE24345)
-* Pathway collection: [WikiPathways human pathway collection](https://www.wikipathways.org/index.php/Download_Pathways)
+* Pathway collection: [WikiPathways human pathway collection](https://www.wikipathways.org/download.html)
 * [R script](https://github.com/BiGCAT-UM/IEMPathwayAnalysis/blob/master/PathwayAnalysis/PathwayAnalysis.R)
 
 ## 2. Network analysis
