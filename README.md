@@ -8,13 +8,13 @@
 * Visualizes gene expression data from Lesch Nyhan Disease patient on the Purine metabolism pathway from WikiPathways 
 * Dataset: [GSE24345](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE24345)
 * Pathway: https://www.wikipathways.org/instance/WP4792
-* [R script](https://github.com/BiGCAT-UM/PathwayAnalysisBlauBook/blob/master/PathwayAnalysis/PathwayVisualization.R)
+* [R script](https://github.com/BiGCAT-UM/IEMPathwayAnalysis/blob/master/PathwayAnalysis/PathwayVisualization.R)
 
 **Example B: Pathway enrichment analysis**
 * Identifies affected pathways in dataset
 * Dataset: [GSE24345](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE24345)
 * Pathway collection: [WikiPathways human pathway collection](https://www.wikipathways.org/index.php/Download_Pathways)
-* [R script](https://github.com/BiGCAT-UM/PathwayAnalysisBlauBook/blob/master/PathwayAnalysis/PathwayAnalysis.R)
+* [R script](https://github.com/BiGCAT-UM/IEMPathwayAnalysis/blob/master/PathwayAnalysis/PathwayAnalysis.R)
 
 ## 2. Network analysis
 
@@ -22,7 +22,7 @@
 * Extends the Purine metabolism pathway from WikiPathways with known drug-target interactions from DrugBank
 * Pathway: https://www.wikipathways.org/instance/WP4792
 * Drug-target database: DrugBank (https://www.drugbank.ca/)
-* [R script](https://github.com/BiGCAT-UM/PathwayAnalysisBlauBook/blob/master/NetworkAnalysis/PathwayExtension.R)
+* [R script](https://github.com/BiGCAT-UM/IEMPathwayAnalysis/blob/master/NetworkAnalysis/PathwayExtension.R)
 
 ## 3. Linking chemical (biomarker) data with RDF
 
