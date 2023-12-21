@@ -1,6 +1,6 @@
 # PathwayAnalysisBlauBook
 
-[HOME](https://bigcat-um.github.io/PathwayAnalysisBlauBook/)
+[HOME](https://bigcat-um.github.io/IEMPathwayAnalysis/)
 
 ## 1. Pathway analysis
 
